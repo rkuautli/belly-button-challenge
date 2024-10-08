@@ -1,11 +1,11 @@
 # belly-button-challenge
 Belly Button Biodiversity Dashboard
 
-Overview
+## Overview
 
 This project presents an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that inhabit human navels. The dashboard allows users to visualize microbial species (OTUs) found in different individuals, providing insights into microbial diversity.
 
-Features
+## Features
 
 Horizontal Bar Chart: Displays the top 10 OTUs found in the selected individual, using:
 sample_values for the bar lengths
@@ -26,7 +26,7 @@ D3.js (for data manipulation and visualization)
 Plotly.js (for interactive charts)
 Getting Started
 
-Clone the repository:
+## Clone the repository:
 bash
 Copy code
 git clone https://github.com/rkuautli/belly-button-challenge.git
@@ -34,10 +34,10 @@ Open index.html in a web browser to view the dashboard.
 Use the dropdown menu to select different samples and see the charts and metadata update dynamically.
 Deployment
 
-The application is deployed using GitHub Pages and can be accessed at:
+## The application is deployed using GitHub Pages and can be accessed at:
 
 https://rkuautli.github.io/belly-button-challenge/
 
-Conclusion
+## Conclusion
 
 This dashboard provides a visual exploration of the Belly Button Biodiversity dataset, allowing users to understand the microbial diversity present in human navels.
