@@ -29,7 +29,7 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/jesusam11/belly-button-challenge.git
+git clone https://github.com/rkuautli/belly-button-challenge.git
 Open index.html in a web browser to view the dashboard.
 Use the dropdown menu to select different samples and see the charts and metadata update dynamically.
 Deployment
